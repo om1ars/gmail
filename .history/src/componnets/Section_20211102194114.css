@@ -1,0 +1,14 @@
+.section {
+  display: flex;
+  align-items: center;
+  min-width: 200px;
+  border-bottom-width: 2px;
+  padding: 15px;
+  cursor: pointer;
+}
+
+.section--active {
+  background-color: whitesmoke;
+  border-width: 3px !important;
+}
+.

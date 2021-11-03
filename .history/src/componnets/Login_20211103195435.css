@@ -1,0 +1,6 @@
+.login {
+    display: flex;
+}
+.login > img {
+    object-fit: contain;
+}

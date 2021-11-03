@@ -1,0 +1,11 @@
+.section {
+    display: flex;
+    align-items: center;
+    min-width: 200px;
+    
+}
+
+.section--active {
+    background-color: whitesmoke;
+    border-width: 3px !important;
+}

@@ -1,0 +1,11 @@
+.header__left > img {
+    object-fit: contain;
+    height: 80px;
+    margin-left: 5px;
+
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

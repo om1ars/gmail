@@ -1,0 +1,24 @@
+.sidebar__conposed {
+  margin-top: 15px !important;
+  margin-left: 10px !important;
+  margin-bottom: 15px !important;
+  text-transform: capitalize;
+  color: gray;
+  padding: 15px !important ;
+  background-color: white !important;
+  border-radius: 30px !important;
+  box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.75);
+}
+
+.sidebar__foter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sidebar__footerIcon {
+
+}
+.sidebar {
+  flex: .2;
+  background-color: black;
+}

@@ -1,0 +1,10 @@
+.section {
+    display: flex;
+    align-items: center;
+    minw
+}
+
+.section--active {
+    background-color: whitesmoke;
+    border-width: 3px !important;
+}

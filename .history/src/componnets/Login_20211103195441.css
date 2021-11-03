@@ -1,0 +1,7 @@
+.login {
+    display: flex;
+}
+.login > img {
+    object-fit: contain;
+    height: 200px;
+}

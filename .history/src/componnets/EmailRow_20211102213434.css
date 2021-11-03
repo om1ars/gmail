@@ -1,0 +1,9 @@
+.emailRow {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid whitesmoke;
+    height: 50px;
+    cursor: pointer;
+    z-index: 999;
+}
+.emailRow

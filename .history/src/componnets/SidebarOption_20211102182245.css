@@ -1,0 +1,18 @@
+.sidebarOption {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    padding: 0 40px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    cursor: pointer;
+    color: #818181;
+}
+.sidebarOption > p {
+    display: none;
+    font-weight: 300;
+}
+.sidebarOption > h3 {
+    flex: 1;
+    
+}

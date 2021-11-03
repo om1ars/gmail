@@ -1,0 +1,13 @@
+.sendMail {
+    position: absolute;
+    bottom: 0;
+    right: 50px;
+    background-color: #404040;
+    width: 40%;
+    height: 40%;
+    max-width: 500px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: flex;
+    fl
+}

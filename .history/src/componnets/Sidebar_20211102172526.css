@@ -1,0 +1,10 @@
+.sidebar__conposed {
+    margin-top: 15px;
+    margin-left: 10px !important;
+    margin-bottom: 15px !important;
+    text-transform: capitalize !important;
+    color: gray;
+    padding: 15px !important;
+    border-radius: 30px !important;
+    box-shadow: 0 2px 5ps -;
+}
